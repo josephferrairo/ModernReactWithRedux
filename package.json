@@ -40,5 +40,6 @@
   "bugs": {
     "url": "https://github.com/StephenGrider/ReduxSimpleStarter/issues"
   },
-  "homepage": "https://github.com/StephenGrider/ReduxSimpleStarter#readme"
+  "homepage": "https://github.com/StephenGrider/ReduxSimpleStarter#readme",
+  "keywords": []
 }
